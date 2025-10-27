@@ -1,13 +1,16 @@
 {
   "expo": {
-    "name": "starter-expo",
-    "slug": "starter-expo",
+    "name": "Fryer Timer",
+    "slug": "fryer-timer",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/images/icon.png",
-    "scheme": "starterexpo",
+    "scheme": "fryertimer",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.alexs94.starter-expo"
